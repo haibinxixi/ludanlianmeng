@@ -1,12 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>ludanlianmeng</name>
+    <name>卤蛋联盟</name>
     <description>
-        A blank PhoneGap app.
+        卤蛋联盟app.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        卤蛋联盟 Team
     </author>
     <content src="index.html" />
+    <icon src="www/img/logo.png" />
+    <icon gap:density="ldpi" gap:platform="android" src="www/img/logo.png" />
+    <icon gap:density="mdpi" gap:platform="android" src="www/img/logo.png" />
+    <icon gap:density="hdpi" gap:platform="android" src="www/img/logo.png" />
+    <icon gap:density="xhdpi" gap:platform="android" src="www/img/logo.png" />
+    <icon gap:platform="ios" height="57" src="www/img/logo.png" width="57" />
+    <icon gap:platform="ios" height="72" src="www/img/logo.png" width="72" />
+    <icon gap:platform="ios" height="114" src="www/img/logo.png" width="114" />
+    <icon gap:platform="ios" height="144" src="www/img/logo.png" width="144" />
+    <icon gap:platform="winphone" src="www/img/logo.png" />
+    <icon gap:platform="winphone" gap:role="background" src="www/img/logo.png" />
     <access origin="*" />
 </widget>
