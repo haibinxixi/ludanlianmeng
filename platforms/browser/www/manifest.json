@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "ldlm",
-  "short_name": "ldlm",
+  "name": "卤蛋联盟",
+  "short_name": "卤蛋联盟",
   "version": "com.phonegap.helloworld",
-  "description": "Hello World sample application that responds to the deviceready event.",
-  "author": "PhoneGap Team",
+  "description": "卤蛋联盟app",
+  "author": "卤蛋联盟 Team",
   "icons": [],
-  "start_url": "index.html"
+  "start_url": "spec.html"
 }
